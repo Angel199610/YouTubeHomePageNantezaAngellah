@@ -36,7 +36,7 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.add_circle_outline),
-          label: 'Upload',
+          label: '',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.subscriptions),
